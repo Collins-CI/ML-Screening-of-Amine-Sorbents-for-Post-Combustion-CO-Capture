@@ -46,5 +46,5 @@ Experimental testing of sorbents is **time-consuming and costly**. ML can triage
 - Chemical intuition aligns with feature importance results.
 
 ## Author
-- Collins I. Chukwuma
+- [Collins I. Chukwuma](https://www.linkedin.com/in/collins-chukwuma-567845216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
